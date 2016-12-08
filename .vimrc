@@ -1,0 +1,10 @@
+set number
+set expandtab
+set shiftwidth=4
+set tabstop=4
+set smarttab
+set hlsearch
+set autoindent
+syntax on
+set nowrap
+set mouse=a
